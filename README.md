@@ -1,6 +1,6 @@
 # SMU_BOT
 Python Crawling & Discord Bot (2021)
-<br><br>
+<br><br><br>
 
 ## 상명알리미: 상명대학교 이캠퍼스 정보(진도율, 과제 제출 현황) 제공 서비스
 
