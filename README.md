@@ -24,6 +24,7 @@ Python Crawling과 Discord Bot 제작에 관한 전반적인 지식을 쌓기 �
 [이혜린](https://github.com/HYERINI) | 이캠퍼스 크롤링, 디스코드 봇 제작
 
 <br>
+
 ### 회의록 및 산출물
 [노션 관리](https://stirring-steam-f35.notion.site/047a6fa763cb4dc7a3b0c6a44b2667d5)
 
