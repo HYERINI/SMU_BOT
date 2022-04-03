@@ -32,5 +32,5 @@ Python Crawling과 Discord Bot 제작에 관한 전반적인 지식을 쌓기 �
 ### [결과 보고서](https://github.com/beeeeni/SMU_BOT/blob/branch/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EC%8A%A4%ED%84%B0%EB%94%94%EC%83%81%EC%83%9D%ED%94%8C%EB%9F%AC%EC%8A%A4%20%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_%EB%84%A5%EC%8A%A4%ED%8A%B8%EB%A0%88%EB%B8%94.pdf)
 
 ## 실적
-###교내 상생플러스 장려상
+### 교내 상생플러스 장려상
 ![image](https://github.com/beeeeni/SMU_BOT/blob/branch/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EC%9E%A5%EB%A0%A4%EC%83%81.jpg)
