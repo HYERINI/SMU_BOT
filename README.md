@@ -4,10 +4,9 @@ Python Crawling & Discord Bot (2021)
 ## 상명알리미: 상명대학교 이캠퍼스 정보(진도율, 과제 제출 현황) 제공 서비스
 
 ### 주기능
-1. 진도율, 과제 제출 현황 확인
+1. 진도율, 과제, 퀴즈 제출 현황 확인 & 알람 설정
 ![image](https://github.com/beeeeni/SMU_BOT/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EA%B2%B0%EA%B3%BC.PNG)
-2. 알람 설정
-3. 한국 디스코드 봇 리스트에 등록 완료 -> '상명알리미'
+2. 한국 디스코드 봇 리스트에 등록 완료 -> '상명알리미'
 ![image](https://github.com/beeeeni/SMU_BOT/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.PNG)
 
 ### 상세 소개
